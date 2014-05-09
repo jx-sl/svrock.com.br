@@ -1,0 +1,28 @@
+/*
+GOOGLE FONTS
+font-family: 'Jockey One', sans-serif;
+font-family: 'Russo One', sans-serif;
+*/
+body{background: #b5b5b5}
+*{
+	font-family: 'Russo One', sans-serif;
+	font-family: 'Jockey One', sans-serif;
+}
+header, footer{
+	background:#222222;
+}
+header nav a{
+	color:#EEE;
+	float:left;
+	padding:3px 10px;
+	text-align: center;
+}
+header nav a:hover{
+	background:#333;
+	color:darkgreen;
+}
+
+#cadastro input,
+#cadastro select{
+	width: 50%;
+}
