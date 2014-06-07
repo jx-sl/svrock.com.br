@@ -10,9 +10,6 @@
 				<a href='index.php'>Home</a>
 				<a href='historia.php'>Historia</a>
 				<a href='equipe.php'>Equipe</a>
-				<a href='especial_setimo'>7º SV ROCK</a>
-				<a href='especial_setimo/regulamento.php'>Regulamento</a>
-				<a href='especial_setimo/cadastro.php'>Cadastro</a>
 				<a href='edicoes.php'>Edições</a>
 				<a href='contato.php'>Contato</a>
 			</nav>

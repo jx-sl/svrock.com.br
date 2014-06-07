@@ -6,10 +6,6 @@
 <body>
 
     <?php include 'includes/header.php'; ?>
-	<center class='container' style="background: darkred">
-		<h3 style="color:orange">Saca todas informações sobre o 7º SV ROCK acessando o site especial para o evento<br>
-		<button style="border-radius:4px;color:#333" onclick="window.location.href='especial_setimo';">CLICA AQUI PARA ACESSAR</button></h3>
-	</center>
     <!-- CONTEUDO ESPECIFICO DA PAGINA -->
   	<section id='banner'>
   		<figure id='banner01' class='active'>
